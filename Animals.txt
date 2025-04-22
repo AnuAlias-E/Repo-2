@@ -1,4 +1,4 @@
-Cat
-Dog
-Lion 
-Tiger
+Cat-Domestic
+Dog-Domestic
+Lion -Wild
+Tiger-Wild
